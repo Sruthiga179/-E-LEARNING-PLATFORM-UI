@@ -111,3 +111,9 @@ Conclusion
 This E-Learning Platform provides an easy-to-use and structured way to learn web development fundamentals. With interactive videos and progress tracking, users can stay engaged and measure their improvement. As the platform evolves, more features will be added to enhance the learning experience.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6990aeff-1d7b-475f-bb12-cf763e8f848f)
+
+![Image](https://github.com/user-attachments/assets/a42cbb99-9813-4239-9274-c87b531032c4)
+
+![Image](https://github.com/user-attachments/assets/93c6dbd6-1753-4e74-9d30-8465ec0d849b)
